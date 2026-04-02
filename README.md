@@ -254,7 +254,7 @@ The Decision Tree assigned nearly all predictive power to a single feature:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bp-load-classification.git
+git clone https://github.com/Pfuglo1/bp-load-classification.git
 cd bp-load-classification
 ```
 
